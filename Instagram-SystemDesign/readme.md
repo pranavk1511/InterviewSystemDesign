@@ -20,3 +20,7 @@ Ask the interviewrs and get info on the following traffic :
 
 # API and DataModel 
 
+- Data Model 
+
+
+
